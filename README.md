@@ -1,2 +1,2 @@
 # Dashboard
-This is a simple dashboard,you can use it build many other dashboards 
+This is a simple dashboard,you can use it to create many other dashboards 
