@@ -650,4 +650,14 @@
             main .insights {
                 grid-template-columns: auto;
             }
+            main .insights {
+                grid-template-columns: auto;
+            }
+            h2 {
+                margin-left: 20px;
+            }
+            h1 {
+                margin-left: 20px;
+            }
+        }
         }
